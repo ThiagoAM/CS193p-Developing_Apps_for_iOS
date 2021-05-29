@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		580B068E2661F7F8007CCA76 /* Pie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580B068D2661F7F8007CCA76 /* Pie.swift */; };
+		580B06902661FFA0007CCA76 /* Cardify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580B068F2661FFA0007CCA76 /* Cardify.swift */; };
 		587CEB7D263A41BA0041473E /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587CEB7C263A41BA0041473E /* Grid.swift */; };
 		587CEB80263A48710041473E /* GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587CEB7F263A48710041473E /* GridLayout.swift */; };
 		587CEB83263A4C4B0041473E /* Array+Identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587CEB82263A4C4B0041473E /* Array+Identifiable.swift */; };
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		580B068D2661F7F8007CCA76 /* Pie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pie.swift; sourceTree = "<group>"; };
+		580B068F2661FFA0007CCA76 /* Cardify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cardify.swift; sourceTree = "<group>"; };
 		587CEB7C263A41BA0041473E /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 		587CEB7F263A48710041473E /* GridLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLayout.swift; sourceTree = "<group>"; };
 		587CEB82263A4C4B0041473E /* Array+Identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Identifiable.swift"; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				58CEDC812622AF3200A1A95F /* AppDelegate.swift */,
+				580B068F2661FFA0007CCA76 /* Cardify.swift */,
 				58CEDC832622AF3200A1A95F /* SceneDelegate.swift */,
 				580B068D2661F7F8007CCA76 /* Pie.swift */,
 				58CEDC852622AF3200A1A95F /* EmojiMemoryGameView.swift */,
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				580B06902661FFA0007CCA76 /* Cardify.swift in Sources */,
 				580B068E2661F7F8007CCA76 /* Pie.swift in Sources */,
 				58CEDC822622AF3200A1A95F /* AppDelegate.swift in Sources */,
 				58CEDC842622AF3200A1A95F /* SceneDelegate.swift in Sources */,
